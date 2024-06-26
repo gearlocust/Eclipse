@@ -55,7 +55,7 @@ local ESP = {
             Gradient = false, GradientRGB1 = Color3.fromRGB(119, 120, 255), GradientRGB2 = Color3.fromRGB(0, 0, 0), 
             GradientFill = true, GradientFillRGB1 = Color3.fromRGB(119, 120, 255), GradientFillRGB2 = Color3.fromRGB(0, 0, 0), 
             Filled = {
-                Enabled = true,
+                Enabled = False,
                 Transparency = 0.75,
                 RGB = Color3.fromRGB(0, 0, 0),
             },
